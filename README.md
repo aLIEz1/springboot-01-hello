@@ -96,4 +96,4 @@ springboot 所有的自动配置都是在启动的时候扫描并加载：`sprin
 6. 容器中也会存在相当多的xxxAutoConfiguration的这种文件(@Bean)，就是这些类会给容器中导入了这个场景需要的所有组件,并自动配置@Configuration，`JavaConfig`
 7. 有了自动配置类,免去了我们手动编写配置文件的工作
 
-![自动配置原理分析.png](https://yanxuan.nosdn.127.net/3ae8535e6b17d5af7d7e77716efff7b8.png)
+![自动配置原理分析.png](https://p.ananas.chaoxing.com/star3/origin/a066d059919b9b5e1293aeab95c5ba2a.png)
